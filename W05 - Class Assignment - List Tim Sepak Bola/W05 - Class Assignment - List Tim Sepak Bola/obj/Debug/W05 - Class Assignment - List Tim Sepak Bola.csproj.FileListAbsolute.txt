@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\bin\Debug\Class Assignment W05.exe.config
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\bin\Debug\Class Assignment W05.exe
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\bin\Debug\Class Assignment W05.pdb
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\W05 - Class Assignment - List Tim Sepak Bola.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\W05___Class_Assignment___List_Tim_Sepak_Bola.Form1.resources
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\Class_Assignment_W05.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\W05 - Class Assignment - List Tim Sepak Bola.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\W05 - Class Assignment - List Tim Sepak Bola.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\Class Assignment W05.exe
+D:\UC\Semester 2\Application Development\W05 - Class Assignment - List Tim Sepak Bola\W05 - Class Assignment - List Tim Sepak Bola\obj\Debug\Class Assignment W05.pdb
