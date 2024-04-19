@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\bin\Debug\Class Assignment Week 4.exe.config
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\bin\Debug\Class Assignment Week 4.exe
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\bin\Debug\Class Assignment Week 4.pdb
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\W04 - Class Assignment - Pindah Data.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\W04___Class_Assignment___Pindah_Data.Form1.resources
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\Class_Assignment_Week_4.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\W04 - Class Assignment - Pindah Data.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\W04 - Class Assignment - Pindah Data.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\Class Assignment Week 4.exe
+D:\UC\Semester 2\Application Development\Class Assignment Week 4\Class Assignment Week 4\obj\Debug\Class Assignment Week 4.pdb
