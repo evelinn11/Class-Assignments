@@ -1,0 +1,10 @@
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\bin\Debug\W02 - Class Assignment - Kalkulator.exe.config
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\bin\Debug\W02 - Class Assignment - Kalkulator.exe
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\bin\Debug\W02 - Class Assignment - Kalkulator.pdb
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02 - Class Assignment - Kalkulator.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02___Class_Assignment___Kalkulator.Form1.resources
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02___Class_Assignment___Kalkulator.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02 - Class Assignment - Kalkulator.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02 - Class Assignment - Kalkulator.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02 - Class Assignment - Kalkulator.exe
+D:\UC\Semester 2\Application Development\W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator\obj\Debug\W02 - Class Assignment - Kalkulator.pdb

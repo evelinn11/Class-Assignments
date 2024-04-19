@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W02 - Class Assignment - Kalkulator", "W02 - Class Assignment - Kalkulator\W02 - Class Assignment - Kalkulator.csproj", "{807C8239-BBF0-45B8-9A0E-3FEC78E5CFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807C8239-BBF0-45B8-9A0E-3FEC78E5CFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807C8239-BBF0-45B8-9A0E-3FEC78E5CFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807C8239-BBF0-45B8-9A0E-3FEC78E5CFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807C8239-BBF0-45B8-9A0E-3FEC78E5CFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF409536-B51D-4E27-8FC2-B02DACB8612C}
+	EndGlobalSection
+EndGlobal
