@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\CA Week 3\CA Week 3\bin\Debug\CA Week 3.exe.config
+C:\Users\student\source\repos\CA Week 3\CA Week 3\bin\Debug\CA Week 3.exe
+C:\Users\student\source\repos\CA Week 3\CA Week 3\bin\Debug\CA Week 3.pdb
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA Week 3.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA_Week_3.Form1.resources
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA_Week_3.Properties.Resources.resources
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA Week 3.csproj.GenerateResource.cache
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA Week 3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA Week 3.exe
+C:\Users\student\source\repos\CA Week 3\CA Week 3\obj\Debug\CA Week 3.pdb
