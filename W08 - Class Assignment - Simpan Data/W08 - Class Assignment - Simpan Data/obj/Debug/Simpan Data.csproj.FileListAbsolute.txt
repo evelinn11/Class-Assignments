@@ -1,0 +1,20 @@
+C:\Users\student\source\repos\Simpan Data\Simpan Data\bin\Debug\Simpan Data.exe.config
+C:\Users\student\source\repos\Simpan Data\Simpan Data\bin\Debug\Simpan Data.exe
+C:\Users\student\source\repos\Simpan Data\Simpan Data\bin\Debug\Simpan Data.pdb
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan_Data.Form1.resources
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan_Data.Properties.Resources.resources
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan Data.exe
+C:\Users\student\source\repos\Simpan Data\Simpan Data\obj\Debug\Simpan Data.pdb
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\bin\Debug\Simpan Data.exe.config
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\bin\Debug\Simpan Data.exe
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\bin\Debug\Simpan Data.pdb
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan_Data.Form1.resources
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan_Data.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan Data.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan Data.exe
+D:\UC\Semester 2\Application Development\Simpan Data\Simpan Data\obj\Debug\Simpan Data.pdb
