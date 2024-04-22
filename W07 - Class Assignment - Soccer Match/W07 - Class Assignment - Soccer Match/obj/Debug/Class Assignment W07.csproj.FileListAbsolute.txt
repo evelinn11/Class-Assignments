@@ -1,0 +1,22 @@
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe.config
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.pdb
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.MainForm.resources
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.Properties.Resources.resources
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.exe
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.pdb
+C:\Users\student\source\repos\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.AddTeam.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe.config
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.pdb
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.AddTeam.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.MainForm.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.exe
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.pdb

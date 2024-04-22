@@ -1,0 +1,11 @@
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe.config
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.exe
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\bin\Debug\Class Assignment W07.pdb
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\W07 - Class Assignment - Soccer Match.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\W07___Class_Assignment___Soccer_Match.AddTeam.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\W07___Class_Assignment___Soccer_Match.MainForm.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class_Assignment_W07.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\W07 - Class Assignment - Soccer Match.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\W07 - Class Assignment - Soccer Match.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.exe
+D:\UC\Semester 2\Application Development\Class Assignment W07\Class Assignment W07\obj\Debug\Class Assignment W07.pdb
