@@ -1,0 +1,12 @@
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\bin\Debug\W09 - Class Assignment - User Login.exe.config
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\bin\Debug\W09 - Class Assignment - User Login.exe
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\bin\Debug\W09 - Class Assignment - User Login.pdb
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09 - Class Assignment - User Login.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09___Class_Assignment___User_Login.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09___Class_Assignment___User_Login.Login.resources
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09 - Class Assignment - User Login.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09 - Class Assignment - User Login.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09 - Class Assignment - User Login.exe
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09 - Class Assignment - User Login.pdb
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09___Class_Assignment___User_Login.MainForm.resources
+D:\UC\Semester 2\Application Development\W09 - Class Assignment - User Login\W09 - Class Assignment - User Login\obj\Debug\W09___Class_Assignment___User_Login.AddUser.resources
