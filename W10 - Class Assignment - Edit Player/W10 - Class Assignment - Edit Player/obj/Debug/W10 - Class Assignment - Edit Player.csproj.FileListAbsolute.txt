@@ -1,0 +1,23 @@
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\W10 - Class Assignment - Edit Player.exe.config
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\W10 - Class Assignment - Edit Player.exe
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\W10 - Class Assignment - Edit Player.pdb
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\MySql.Data.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\Google.Protobuf.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\ZstdNet.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\BouncyCastle.Crypto.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\Ubiety.Dns.Core.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\System.Buffers.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\K4os.Compression.LZ4.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\K4os.Hash.xxHash.dll
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\bin\Debug\MySql.Data.xml
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.csproj.SuggestedBindingRedirects.cache
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.exe.config
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10___Class_Assignment___Edit_Player.FormPlayer.resources
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10___Class_Assignment___Edit_Player.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.csproj.CopyComplete
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.exe
+D:\UC\Semester 2\Application Development\W10 - Class Assignment - Edit Player\W10 - Class Assignment - Edit Player\obj\Debug\W10 - Class Assignment - Edit Player.pdb
