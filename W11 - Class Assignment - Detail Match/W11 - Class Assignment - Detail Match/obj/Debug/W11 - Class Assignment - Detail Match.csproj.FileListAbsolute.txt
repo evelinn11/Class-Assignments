@@ -1,0 +1,23 @@
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\W11 - Class Assignment - Detail Match.exe.config
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\W11 - Class Assignment - Detail Match.exe
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\W11 - Class Assignment - Detail Match.pdb
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\MySql.Data.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\Google.Protobuf.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\ZstdNet.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\BouncyCastle.Crypto.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\Ubiety.Dns.Core.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\System.Buffers.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\K4os.Compression.LZ4.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\K4os.Hash.xxHash.dll
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\bin\Debug\MySql.Data.xml
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.csproj.AssemblyReference.cache
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.csproj.SuggestedBindingRedirects.cache
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.exe.config
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11___Class_Assignment___Detail_Match.Form1.resources
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11___Class_Assignment___Detail_Match.Properties.Resources.resources
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.csproj.GenerateResource.cache
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.csproj.CoreCompileInputs.cache
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.csproj.CopyComplete
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.exe
+D:\UC\Semester 2\Application Development\W11 - Class Assignment - Detail Match\W11 - Class Assignment - Detail Match\obj\Debug\W11 - Class Assignment - Detail Match.pdb
